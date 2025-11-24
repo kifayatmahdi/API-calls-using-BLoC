@@ -39,13 +39,13 @@ Displays loading, data, or error from StreamBuilder.
    git remote add origin https://github.com/kifayatmahdi/API-calls-using-BLoC.git
    ```
 **2. Install dependencies:**
-    ```sh
+   ```sh
    flutter pub get
-    ```
+   ```
 **3. Run the app:**
-    ```sh
+   ```sh
    flutter run
-    ```
+   ```
 ## Dependencies
 **Add in `pubspec.yaml`:**
 ```sh
