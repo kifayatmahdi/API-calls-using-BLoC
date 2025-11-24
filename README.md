@@ -41,11 +41,11 @@ Displays loading, data, or error from StreamBuilder.
 **2. Install dependencies:**
     ```sh
    flutter pub get
-   ```
+    ```
 **3. Run the app:**
     ```sh
    flutter run
-   ```
+    ```
 ## Dependencies
 **Add in `pubspec.yaml`:**
 ```sh
